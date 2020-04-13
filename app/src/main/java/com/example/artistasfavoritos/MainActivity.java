@@ -33,6 +33,7 @@ public class MainActivity extends AppCompatActivity {
         cantante.add( new CantanteModelo("jhon Secada","Cuba",R.drawable.jhon ) );
         cantante.add( new CantanteModelo("Eros Ramazoti","Italia",R.drawable.eros ) );
         cantante.add( new CantanteModelo("Enrrique Iglesia","Español",R.drawable.enrrique ) );
+        cantante.add( new CantanteModelo("Jesus Adrian Romero","Mexicano",R.drawable.adrianr ) );
 
 
         return cantante;
